@@ -57,15 +57,23 @@
 
 .ball1 {
     width: 18px;
+    height: 18px;
+    display: block;
+    box-shadow: 1px 1px 4px #000000; /*para ponerle sombra*/
+    border-radius: 20px;
     position:  absolute;
     top: 125px;
-    right: 655px;
+    right: 665px;
     bottom: 243px;
-    left: 79px;
+    left: 72px;
 }
 
 .ball2{
   width: 18px;
+  height: 18px;
+  display: block;
+  box-shadow: 1px 1px 4px #000000; /*para ponerle sombra*/
+  border-radius: 20px;
   position: absolute;
   top: 50px;
   right: 410px;
@@ -75,6 +83,10 @@
 
 .ball3{
   width: 18px;
+  height: 18px;
+  display: block;
+  box-shadow: 1px 1px 4px #000000; /*para ponerle sombra*/
+  border-radius: 20px;
   position: absolute;
   top: 243px;
   right: 50px;
