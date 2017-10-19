@@ -1,0 +1,48 @@
+.grass {
+    background-color: #8cb27c;
+    width: 1000px;
+    height: 450px;
+    position: relative;
+}
+
+.field {
+    background-color: #8cb27c;
+    border: 5px solid #fff;
+    width: 950px;
+    height: 400px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    bottom: 20px;
+    left: 20px;
+}
+
+.first-goal {
+    background-color: #8cb27c;
+    border: 5px solid #fff;
+    width: 85px;
+    height: 151px;
+    position: absolute;
+    top: 120px;
+    right: 870px;
+    bottom: 120px;
+    left: 0px;
+}
+
+.second-goal {
+    background-color: #8cb27c;
+    border: 5px solid #fff;
+    width: 85px;
+    height: 151px;
+    position: absolute;
+    top: 120px;
+    right: 0px;
+    bottom: 120px;
+    left: 860px;
+}
+
+.circle {
+    background-color: #8cb27c;
+    border: 5px solid #fff;
+    position: absolute;
+}
