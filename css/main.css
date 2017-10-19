@@ -44,5 +44,20 @@
 .circle {
     background-color: #8cb27c;
     border: 5px solid #fff;
+    border-radius: 90px;
+    width: 150px;
+    height: 151px;
     position: absolute;
+    top: 120px;
+    right: 500px;
+    bottom: 120px;
+    left: 400px;
+
+}
+
+.first-ball {
+    width: 1%;
+    height: 1%;
+
+
 }
