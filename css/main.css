@@ -69,11 +69,12 @@
 .ball2{
   width: 18px;
   position: absolute;
-  top: 120px;
-  right: 500px;
-  bottom: 120px;
-  left: 400px;
+  top: 50px;
+  right: 400px;
+  bottom: 250px;
+  left: 490px;
 }
+
 .ball3{
   width: 18px;
   position: absolute;
