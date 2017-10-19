@@ -20,6 +20,7 @@
 .first-goal {
     background-color: #8cb27c;
     border: 5px solid #fff;
+    border-left: 0px;
     width: 85px;
     height: 151px;
     position: absolute;
@@ -52,35 +53,31 @@
     right: 500px;
     bottom: 120px;
     left: 400px;
-
 }
 
 .ball1 {
     width: 18px;
-    position: absolute;
-    top: 124px;
+    position:  absolute;
+    top: 125px;
     right: 655px;
     bottom: 243px;
     left: 79px;
 }
 
-
-
 .ball2{
   width: 18px;
   position: absolute;
   top: 50px;
-  right: 400px;
+  right: 410px;
   bottom: 250px;
-  left: 490px;
+  left: 480px;
 }
 
 .ball3{
   width: 18px;
   position: absolute;
-  top: 120px;
-  right: 500px;
-  bottom: 120px;
-  left: 420px;
+  top: 243px;
+  right: 50px;
+  bottom: 125px;
+  left: 835px;
 }
-
