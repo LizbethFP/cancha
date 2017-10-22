@@ -27,10 +27,10 @@ Carpeta que contiene otra carpeta llamada "images", en la que se encuentra dos i
 Carpeta que contiene la hoja de estilos para darle formato al HTML.
 
 ##### HTML
-Página princiapl que aloja a la imagen replicada.
+Página principal que aloja a la imagen replicada.
 
 #### README
-
+Documento explicativo del proyecto.
 
 Autora
 ------
