@@ -20,10 +20,10 @@ Contenido
 ---------
 Este proyecto se encuentra constituído por las siguientes carpetas:
 
-###### Assets
+##### Assets
 Carpeta que contiene otra carpeta llamada "images", en la que se encuentra dos imágenes en formato PNG para la pelota y la muestra de la cancha.
 
-###### CSS
+##### CSS
 Carpeta que contiene la hoja de estilos para darle formato al HTML.
 
 ##### HTML
